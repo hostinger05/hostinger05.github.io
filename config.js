@@ -6,15 +6,11 @@
  * ║  ⚠️  FILE INI TIDAK BOLEH DI-COMMIT KE GITHUB!            ║
  * ║  ⚠️  Sudah terdaftar di .gitignore                        ║
  * ║                                                           ║
- * ║  Isi token di bawah ini untuk mengaktifkan fitur          ║
- * ║  ganti password permanen (tersimpan ke datasiswa.js).     ║
- * ║                                                           ║
- * ║  Cara buat Fine-Grained Token:                            ║
- * ║  1. GitHub → Settings → Developer settings               ║
- * ║  2. Personal access tokens → Fine-grained tokens         ║
- * ║  3. Generate new token                                    ║
- * ║  4. Repository access: hanya repo portal ini             ║
- * ║  5. Permissions: Contents → Read and Write               ║
+ * ║  CARA DAPATKAN gasUrl:                                    ║
+ * ║  1. Buka Apps Script editor Google Sheet                  ║
+ * ║  2. Deploy → New deployment → Web App                     ║
+ * ║  3. Execute as: Me | Who has access: Anyone               ║
+ * ║  4. Copy URL yang diberikan → paste ke gasUrl di bawah    ║
  * ╚═══════════════════════════════════════════════════════════╝
  */
 
@@ -22,5 +18,8 @@ window.GITHUB_CONFIG = {
   owner:  "hostinger05",
   repo:   "ortu",
   branch: "main",
-  token:  "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",   // ← isi token GitHub Anda di sini (file ini tidak di-commit)
+  token:  "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",        // ← isi token GitHub (opsional, untuk sync file JS)
+
+  // URL Apps Script Web App — wajib diisi untuk fitur ganti password
+  gasUrl: "https://script.google.com/macros/s/AKfycby3_7Wg5LJGAbZLizbdSFe4oMKspA0U954WR9ue3eTXsBtOYuLwun_S2W7Y_8XdAjKinA/exec",        // ← contoh: "https://script.google.com/macros/s/AKfyc.../exec"
 };
