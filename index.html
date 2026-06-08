@@ -2956,7 +2956,7 @@ createApp({
           border: meta.border, bg: meta.bg, color: meta.color, shadow: meta.shadow,
           content,
         };
-      });
+      }).filter(note => note.content && note.content.trim() !== '-' && note.content.trim() !== '');
     });
 
     const ALL_MONTHS = [
