@@ -10,8 +10,18 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/3.4.21/vue.global.prod.min.js"></script>
 <script>
+// ══════════════════════════════════════════════════════════════════
+//  SISTEM KEAMANAN DATA SISWA
+//  ► datasiswa.js di-fetch setiap buka/refresh (no-cache)
+//  ► Data didekripsi di memori → window.SISWA_DATA
+//  ► window.__SP5P dihapus segera setelah decrypt
+//  ► window.SISWA_DATA dihapus setelah login berhasil
+//  ► Anti-DevTools: detect F12 → hapus data dari memori
+// ══════════════════════════════════════════════════════════════════
 
 const _SP5P_KEY = "sp5p_enc_2025_sman5pinrang_secure!";
+
+// Bangun keystream SHA-256 counter mode (identik dengan Apps Script)
 async function _sp5p_keystream(ptLen) {
   const keyHash  = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(_SP5P_KEY));
   const keyBytes = new Uint8Array(keyHash);
@@ -25,6 +35,9 @@ async function _sp5p_keystream(ptLen) {
   }
   return ks;
 }
+
+// Dekripsi base64 → plaintext string
+// Format binary: IV(12) | Tag(16) | CT(n)
 async function _sp5p_dec(b64) {
   try {
     const raw   = atob(b64);
@@ -36,6 +49,8 @@ async function _sp5p_dec(b64) {
     return new TextDecoder().decode(pt);
   } catch(e) { return null; }
 }
+
+// Fetch datasiswa.js fresh setiap kali (no-cache) → decrypt → set SISWA_DATA
 const _sp5p_loadData = async () => {
   try {
     const res = await fetch("datasiswa.js?v=" + Date.now(), {
@@ -49,17 +64,21 @@ const _sp5p_loadData = async () => {
     const idx    = js.indexOf(marker);
 
     if (idx !== -1) {
+      // Format baru — terenkripsi
       const b64Start = idx + marker.length;
       const b64End   = js.indexOf('"', b64Start);
       const plain    = await _sp5p_dec(js.substring(b64Start, b64End));
       if (!plain) throw new Error("Dekripsi gagal.");
       window.SISWA_DATA = JSON.parse(plain);
     } else if (js.indexOf("window.SISWA_DATA") !== -1) {
+      // Fallback format lama (plaintext) — sementara migrasi
       const fn = new Function(js + "; return window.SISWA_DATA;");
       window.SISWA_DATA = fn();
     } else {
       throw new Error("Format datasiswa.js tidak dikenal.");
     }
+
+    // Bersihkan raw ciphertext dari window
     try { delete window.__SP5P; } catch(e) { window.__SP5P = undefined; }
     return true;
   } catch(err) {
@@ -67,6 +86,8 @@ const _sp5p_loadData = async () => {
     return false;
   }
 };
+
+// Anti-DevTools: hapus SISWA_DATA jika DevTools terbuka
 (function() {
   const _clear = () => {
     try { delete window.SISWA_DATA;    } catch(e) { window.SISWA_DATA    = null;      }
@@ -75,19 +96,27 @@ const _sp5p_loadData = async () => {
     try { delete window.__CFG;         } catch(e) { window.__CFG         = undefined; }
   };
   let _wasOpen = false;
+
+  // Metode 1: window size diff
   setInterval(() => {
     const open = (window.outerWidth - window.innerWidth > 160) ||
                  (window.outerHeight - window.innerHeight > 160);
     if (open && !_wasOpen) { _wasOpen = true; _clear(); }
     if (!open) _wasOpen = false;
   }, 1500);
+
+  // Metode 2: blokir shortcut keyboard DevTools
   document.addEventListener("keydown", e => {
     if (e.keyCode === 123) { e.preventDefault(); return false; }
     if (e.ctrlKey && e.shiftKey && [73,74,67].includes(e.keyCode)) { e.preventDefault(); return false; }
     if (e.ctrlKey && e.keyCode === 85) { e.preventDefault(); return false; }
   }, true);
+
+  // Metode 3: disable right-click
   document.addEventListener("contextmenu", e => e.preventDefault());
 })();
+
+// ── Fetch + decrypt config.js (no-cache, tidak terlihat di F12 Sources) ──
 const _sp5p_loadConfig = async () => {
   try {
     const res = await fetch("config.js?v=" + Date.now(), {
@@ -103,11 +132,14 @@ const _sp5p_loadConfig = async () => {
       const plain = await _sp5p_dec(b64);
       if (plain) window.GITHUB_CONFIG = JSON.parse(plain);
     } else if (js.indexOf("window.GITHUB_CONFIG") !== -1) {
+      // Fallback format lama (plaintext)
       window.GITHUB_CONFIG = (new Function(js + "; return window.GITHUB_CONFIG;"))();
     }
     try { delete window.__CFG; } catch(e) { window.__CFG = undefined; }
   } catch(e) { window.GITHUB_CONFIG = {}; }
 };
+
+// Mulai load datasiswa.js + config.js secara paralel
 window._sp5pReady = Promise.all([_sp5p_loadData(), _sp5p_loadConfig()]);
 </script>
 <style>
@@ -2377,6 +2409,8 @@ createApp({
 
     const showDownloadConfirm = ref(false);
     const showResetConfirm    = ref(false);
+
+    // ── Enkripsi AES-GCM ──
     const _ENC_SEED = 'sp5p@sman5pinrang!#2025$secure';
 
     const _deviceFingerprint = () => {
@@ -2439,6 +2473,8 @@ createApp({
         localStorage.setItem(STORE_KEY, enc);
       } catch {}
     };
+
+    // Auto-fill dari penyimpanan internal
     loadSaved().then(saved => {
       if (saved) {
         nisnInput.value     = saved.nisn     || '';
@@ -2516,6 +2552,8 @@ createApp({
           rawAssessmentData: '', rawNotesData: '',
           abList: [], nlList: []
         };
+
+        // Hapus data sensitif & reload data + config baru dari server
         try { delete window.SISWA_DATA;    } catch(e) { window.SISWA_DATA    = null; }
         try { delete window.GITHUB_CONFIG; } catch(e) { window.GITHUB_CONFIG = {};   }
         window._sp5pReady = Promise.all([window._sp5p_loadData(), window._sp5p_loadConfig()]);
@@ -2527,6 +2565,8 @@ createApp({
 
     const doChangePassword = async () => {
       pwMsg.value = '';
+
+      // ── Validasi input ──────────────────────────────────────────────
       if (!pwOld.value) {
         pwMsg.value = 'Password lama harus diisi.';
         pwMsgType.value = 'err'; return;
@@ -2552,11 +2592,15 @@ createApp({
         pwMsg.value = 'Password baru tidak boleh sama dengan password lama.';
         pwMsgType.value = 'err'; return;
       }
+
+      // ── Ambil gasUrl dari config.js ─────────────────────────────────
       const gasUrl = (window.GITHUB_CONFIG || {}).gasUrl || '';
 
       if (!gasUrl) {
+        // Tidak ada gasUrl → simpan lokal saja (mode offline)
         await saveSession(saved?.nisn || '', saved?.kelas || '', pwNew.value);
-         ['GANJIL','GENAP'].forEach(sem => {
+        // ⚠️ passwordInput TIDAK diubah — tetap password lama di textbox login
+        ['GANJIL','GENAP'].forEach(sem => {
           if (window.SISWA_DATA?.[sem]?.[saved?.nisn]) {
             window.SISWA_DATA[sem][saved.nisn].password = pwNew.value;
           }
@@ -2568,16 +2612,21 @@ createApp({
         return;
       }
 
+      // ── Kirim ke Apps Script via POST ───────────────────────────────
       pwLoading.value = true;
       try {
         const nisn = saved?.nisn || studentData.value.nisn || '';
 
         const res = await fetch(gasUrl, {
           method:  'POST',
+          // Apps Script doPost() membaca e.postData.contents sebagai string JSON
+          // Gunakan text/plain agar tidak di-preflight CORS
           headers: { 'Content-Type': 'text/plain;charset=utf-8' },
           body:    JSON.stringify({ nisn, newPassword: pwNew.value }),
         });
 
+        // Apps Script selalu mengembalikan HTTP 200 meski ada error internal,
+        // jadi kita cek body JSON-nya
         let result = { success: false, message: 'Tidak ada respons dari server.' };
         try {
           const text = await res.text();
@@ -2588,8 +2637,11 @@ createApp({
           throw new Error(result.message || 'Server menolak permintaan.');
         }
 
+        // ── Berhasil: perbarui session lokal & in-memory ─────────────
+        // Simpan password BARU ke session agar login berikutnya langsung pakai baru
         await saveSession(nisn, saved?.kelas || '', pwNew.value);
-
+        // ⚠️ passwordInput di halaman login TIDAK diubah — tetap password lama
+        // supaya siswa masih bisa login dengan password lama sampai server konfirmasi
         ['GANJIL','GENAP'].forEach(sem => {
           if (window.SISWA_DATA?.[sem]?.[nisn]) {
             window.SISWA_DATA[sem][nisn].password = pwNew.value;
@@ -2600,12 +2652,12 @@ createApp({
         pwMsgType.value = 'ok';
         pwMsg.value = '✅ Password berhasil diganti. Tunggu 10 sampai 15 menit agar password benar-benar terganti di server untuk disetujui oleh admin.';
         pwOld.value = ''; pwNew.value = ''; pwConfirm.value = '';
-  
+        // Tidak reload — user tetap di halaman, textbox password login tidak berubah
 
       } catch (err) {
         pwLoading.value = false;
         pwMsgType.value = 'err';
-
+        // Pesan ramah untuk error CORS (terjadi jika gasUrl salah / belum di-deploy)
         const msg = err.message || '';
         if (msg.toLowerCase().includes('failed to fetch') || msg.toLowerCase().includes('networkerror')) {
           pwMsg.value = 'Gagal terhubung ke server. Periksa gasUrl di config.js dan pastikan Web App sudah di-deploy dengan akses "Anyone".';
@@ -2743,10 +2795,12 @@ createApp({
       errorMessage.value = '';
 
       try {
-        
+        // ── Pastikan datasiswa.js sudah ter-load & ter-decrypt ──────
+        // window._sp5pReady adalah Promise yang dimulai saat halaman load.
+        // Jika sudah selesai, await langsung resolve. Jika belum, tunggu.
         await window._sp5pReady;
 
-    
+        // Jika SISWA_DATA masih null (gagal load), coba reload sekali
         if (!window.SISWA_DATA) {
           const ok = await window._sp5p_loadData();
           if (!ok || !window.SISWA_DATA) {
@@ -2799,18 +2853,21 @@ createApp({
         loading.value     = false;
         await saveSession(nisnInput.value, result.kelas || '', passwordInput.value);
 
+        // ── Hapus SISWA_DATA dari memori setelah data siswa tersimpan di Vue ──
+        // Data sensitif sudah ada di studentData ref, tidak perlu lagi di window
         setTimeout(() => {
           try { delete window.SISWA_DATA; } catch(e) { window.SISWA_DATA = null; }
         }, 500);
 
       } catch (err) {
         loading.value      = false;
-        errorMessage.value = 'Gagal login: anda melakukan F12. matikan dan refresh kembali';
+        errorMessage.value = 'Gagal login: ' + (err.message || 'Unknown error');
       }
     };
 
 
 
+    // ── PARSED DATA ──
     const parsedSchedule = computed(() => {
       if (!studentData.value.rawSchedule) return [];
       return studentData.value.rawSchedule.split('#').filter(i => i.trim()).map(entry => {
