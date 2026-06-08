@@ -4,11 +4,14 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>SMAN 5 Pinrang — Portal Akademik Siswa</title>
+<meta name="description" content="Portal Akademik Siswa SMAN 5 Pinrang - Cek jadwal, kehadiran, penilaian, dan catatan guru." />
+<meta name="robots" content="noindex, nofollow" />
 <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/3.4.21/vue.global.prod.min.js"></script>
+<script>
 <script>
 // ══════════════════════════════════════════════════════════════════
 //  SISTEM KEAMANAN DATA SISWA
@@ -141,6 +144,7 @@ const _sp5p_loadConfig = async () => {
 
 // Mulai load datasiswa.js + config.js secara paralel
 window._sp5pReady = Promise.all([_sp5p_loadData(), _sp5p_loadConfig()]);
+</script>
 </script>
 <style>
   :root {
@@ -1324,7 +1328,12 @@ window._sp5pReady = Promise.all([_sp5p_loadData(), _sp5p_loadConfig()]);
 </head>
 <body>
 
-<div id="app">
+<!-- Portal Akademik SMAN 5 Pinrang — Client-Side Rendered -->
+<div id="app"></div>
+
+<!-- Vue 3 App Template -->
+<script type="text/x-template" id="app-template">
+<div>
 
   <!-- LOGIN PAGE -->
   <div v-if="!loggedIn" class="login-page">
@@ -2292,6 +2301,9 @@ window._sp5pReady = Promise.all([_sp5p_loadData(), _sp5p_loadConfig()]);
 
 </div>
 
+</script>
+
+<!-- Vue App -->
 <script>
 const { createApp, ref, computed, watch } = Vue;
 
@@ -2384,6 +2396,7 @@ async function loadBgImage() {
 }
 
 createApp({
+  template: '#app-template',
   setup() {
     const logoSrc = ref(localStorage.getItem(LOGO_CACHE_KEY) || LOGO_URL);
     loadLogo().then(src => { logoSrc.value = src; });
@@ -3198,6 +3211,7 @@ createApp({
     };
   }
 }).mount('#app');
+
 </script>
 <style>
 .bg-green  { background:#ecfdf5!important; color:#059669!important; border-radius:8px; }
