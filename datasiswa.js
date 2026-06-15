@@ -2,7 +2,7 @@
  * DATABASE SISWA — Portal Akademik SMAN 5 Pinrang
  * Di-generate otomatis oleh upload_datasiswa.gs
  * ⚠️  Jangan edit manual — gunakan script upload untuk memperbarui.
- * Terakhir diperbarui: 2026-06-15 09:15:32
+ * Terakhir diperbarui: 2026-06-15 09:22:03
  */
 
 window.SISWA_DATA = {
@@ -47436,8 +47436,8 @@ window.SISWA_DATA = {
     "3083749745": {
       "nisn": "3083749745",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -47445,7 +47445,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3083749745@MUH. ARIL",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3083749745@MUH. ARIL",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3083749745@MUH. ARIL",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3083749745@MUH. ARIL",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3083749745@MUH. ARIL",
@@ -83404,8 +83404,8 @@ window.SISWA_DATA = {
     "0086953235": {
       "nisn": "0086953235",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@4@2@0@0@0@1#FISIKA MINAT@Rahmawati Said. S.Si@0@0@1@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@1@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@1#PANCASILA@Iskandar. S.Pd@0@0@0@1@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@5@2@0@0@0@1#FISIKA MINAT@Rahmawati Said. S.Si@0@0@1@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@1@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@1#PANCASILA@Iskandar. S.Pd@0@0@0@1@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@215@1@0@0@2#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@01 Juni 2026#3. Ortho-K — Lensa keras khusus dipakai saat tidur, membentuk kornea sementara. Di siang hari bisa melihat jelas tanpa alat bantu .\n​\n4. Operasi Mata — Cara permanen:\n​\n- LASIK / SMILE: Mengubah lengkungan kornea pakai sinar laser .\n​\n- PRK: Untuk kornea yang agak tipis .\n​\n- Implan lensa: Untuk minus sangat tinggi .\nBiasanya untuk usia di atas 18–21 tahun dan ukuran minus sudah stabil .\n \n🩺 Cara Memperlambat Pertambahan Minus\n \n- Untuk anak dan remaja, dokter bisa meresepkan tetes mata khusus atau lensa tertentu agar minus tidak cepat bertambah .\n​\n- Banyak beraktivitas di luar ruangan, dapatkan cahaya matahari cukup .\n​\n- Terapkan aturan 20-20-20: Setiap 20 menit menatap layar/benda dekat, istirahat lihat sejauh 6 meter selama 20 detik .\n​\n- Jangan membaca atau main HP terlalu dekat dan di tempat gelap .\n \n⚠️ Hal Penting\n \n- Tidak ada obat minum, ramuan, atau senam mata yang bisa menghilangkan rabun jauh sepenuhnya .%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -83413,7 +83413,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,HT@HT@H@H@H@H@B@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0086953235@ABDUL RAHMAN",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,HT@HT@H@H@H@H@B@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0086953235@ABDUL RAHMAN",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,I@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0086953235@ABDUL RAHMAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0086953235@ABDUL RAHMAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0086953235@ABDUL RAHMAN",
@@ -83468,8 +83468,8 @@ window.SISWA_DATA = {
     "0079160898": {
       "nisn": "0079160898",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@5@1@0@1@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@1@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@6@1@0@1@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@1@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -83477,7 +83477,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,S@HT@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0079160898@AHMAD DANIEL FADLIE",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,S@HT@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0079160898@AHMAD DANIEL FADLIE",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0079160898@AHMAD DANIEL FADLIE",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0079160898@AHMAD DANIEL FADLIE",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0079160898@AHMAD DANIEL FADLIE",
@@ -83532,8 +83532,8 @@ window.SISWA_DATA = {
     "0075066941": {
       "nisn": "0075066941",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@4@0@3@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@5@0@3@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -83541,7 +83541,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,I@I@I@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0075066941@AHMAD FADHLI",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,I@I@I@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0075066941@AHMAD FADHLI",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0075066941@AHMAD FADHLI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0075066941@AHMAD FADHLI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0075066941@AHMAD FADHLI",
@@ -83596,8 +83596,8 @@ window.SISWA_DATA = {
     "0083288388": {
       "nisn": "0083288388",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@4@0@2@0@1@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@1@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@5@0@2@0@1@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@1@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -83605,7 +83605,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,A@I@I@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0083288388@AL BASIR",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,A@I@I@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0083288388@AL BASIR",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0083288388@AL BASIR",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0083288388@AL BASIR",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0083288388@AL BASIR",
@@ -83660,8 +83660,8 @@ window.SISWA_DATA = {
     "0084424458": {
       "nisn": "0084424458",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@5@0@1@1@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@6@0@1@1@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -83669,7 +83669,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@I@S@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0084424458@ANASTASYA KHAIRIAH",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@I@S@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0084424458@ANASTASYA KHAIRIAH",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0084424458@ANASTASYA KHAIRIAH",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0084424458@ANASTASYA KHAIRIAH",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0084424458@ANASTASYA KHAIRIAH",
@@ -83724,8 +83724,8 @@ window.SISWA_DATA = {
     "0084183376": {
       "nisn": "0084183376",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@5@0@0@1@1@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@6@0@0@1@1@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -83733,7 +83733,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@A@S@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0084183376@ARGA REHAN",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@A@S@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0084183376@ARGA REHAN",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0084183376@ARGA REHAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0084183376@ARGA REHAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0084183376@ARGA REHAN",
@@ -83788,8 +83788,8 @@ window.SISWA_DATA = {
     "0092132631": {
       "nisn": "0092132631",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@5@0@0@0@2@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@6@0@0@0@2@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -83797,7 +83797,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@A@A@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0092132631@FEBYANSYAH BINTI BUDI",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@A@A@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0092132631@FEBYANSYAH BINTI BUDI",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0092132631@FEBYANSYAH BINTI BUDI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0092132631@FEBYANSYAH BINTI BUDI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0092132631@FEBYANSYAH BINTI BUDI",
@@ -83852,8 +83852,8 @@ window.SISWA_DATA = {
     "0072216713": {
       "nisn": "0072216713",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@5@0@0@1@1@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@6@0@0@1@1@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -83861,7 +83861,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@S@A@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0072216713@HASNITA",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@S@A@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0072216713@HASNITA",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0072216713@HASNITA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0072216713@HASNITA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0072216713@HASNITA",
@@ -83916,8 +83916,8 @@ window.SISWA_DATA = {
     "0083457244": {
       "nisn": "0083457244",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@6@0@0@1@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@1@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -83925,7 +83925,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@S@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0083457244@IBRAHIM",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@S@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0083457244@IBRAHIM",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0083457244@IBRAHIM",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0083457244@IBRAHIM",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0083457244@IBRAHIM",
@@ -83980,8 +83980,8 @@ window.SISWA_DATA = {
     "0074170359": {
       "nisn": "0074170359",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -83989,7 +83989,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0074170359@IKHWANUL QIRAM",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0074170359@IKHWANUL QIRAM",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0074170359@IKHWANUL QIRAM",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0074170359@IKHWANUL QIRAM",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0074170359@IKHWANUL QIRAM",
@@ -84044,8 +84044,8 @@ window.SISWA_DATA = {
     "0086424755": {
       "nisn": "0086424755",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -84053,7 +84053,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0086424755@ILHAM",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0086424755@ILHAM",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0086424755@ILHAM",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0086424755@ILHAM",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0086424755@ILHAM",
@@ -84108,8 +84108,8 @@ window.SISWA_DATA = {
     "0087783519": {
       "nisn": "0087783519",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -84117,7 +84117,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0087783519@JUMRIANI",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0087783519@JUMRIANI",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0087783519@JUMRIANI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0087783519@JUMRIANI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0087783519@JUMRIANI",
@@ -84172,8 +84172,8 @@ window.SISWA_DATA = {
     "0085791812": {
       "nisn": "0085791812",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -84181,7 +84181,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0085791812@MOH. FARIL",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0085791812@MOH. FARIL",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0085791812@MOH. FARIL",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0085791812@MOH. FARIL",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0085791812@MOH. FARIL",
@@ -84236,8 +84236,8 @@ window.SISWA_DATA = {
     "0088371843": {
       "nisn": "0088371843",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -84245,7 +84245,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0088371843@MUH. AKBAR",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0088371843@MUH. AKBAR",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0088371843@MUH. AKBAR",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0088371843@MUH. AKBAR",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0088371843@MUH. AKBAR",
@@ -84300,8 +84300,8 @@ window.SISWA_DATA = {
     "0087122174": {
       "nisn": "0087122174",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -84309,7 +84309,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0087122174@MUH. FAIZ MARWAN",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0087122174@MUH. FAIZ MARWAN",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0087122174@MUH. FAIZ MARWAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0087122174@MUH. FAIZ MARWAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0087122174@MUH. FAIZ MARWAN",
@@ -84364,8 +84364,8 @@ window.SISWA_DATA = {
     "0088646717": {
       "nisn": "0088646717",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -84373,7 +84373,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0088646717@MUH. FAJRIL",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0088646717@MUH. FAJRIL",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0088646717@MUH. FAJRIL",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0088646717@MUH. FAJRIL",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0088646717@MUH. FAJRIL",
@@ -84428,8 +84428,8 @@ window.SISWA_DATA = {
     "0081097260": {
       "nisn": "0081097260",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -84437,7 +84437,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0081097260@MUH. REYHAN",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0081097260@MUH. REYHAN",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0081097260@MUH. REYHAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0081097260@MUH. REYHAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0081097260@MUH. REYHAN",
@@ -84492,8 +84492,8 @@ window.SISWA_DATA = {
     "0082528555": {
       "nisn": "0082528555",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -84501,7 +84501,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0082528555@MUH. RIDWAN AMIRULLAH",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0082528555@MUH. RIDWAN AMIRULLAH",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0082528555@MUH. RIDWAN AMIRULLAH",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0082528555@MUH. RIDWAN AMIRULLAH",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0082528555@MUH. RIDWAN AMIRULLAH",
@@ -84556,8 +84556,8 @@ window.SISWA_DATA = {
     "0089597941": {
       "nisn": "0089597941",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -84565,7 +84565,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0089597941@MUHAMMAD ARFAN",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0089597941@MUHAMMAD ARFAN",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0089597941@MUHAMMAD ARFAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0089597941@MUHAMMAD ARFAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0089597941@MUHAMMAD ARFAN",
@@ -84620,8 +84620,8 @@ window.SISWA_DATA = {
     "0086583585": {
       "nisn": "0086583585",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -84629,7 +84629,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0086583585@MUHAMMAD BILAL ARWAN",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0086583585@MUHAMMAD BILAL ARWAN",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0086583585@MUHAMMAD BILAL ARWAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0086583585@MUHAMMAD BILAL ARWAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0086583585@MUHAMMAD BILAL ARWAN",
@@ -84684,8 +84684,8 @@ window.SISWA_DATA = {
     "0079208832": {
       "nisn": "0079208832",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -84693,7 +84693,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0079208832@MUHAMMAD FADLAN",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0079208832@MUHAMMAD FADLAN",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0079208832@MUHAMMAD FADLAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0079208832@MUHAMMAD FADLAN",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0079208832@MUHAMMAD FADLAN",
@@ -84748,8 +84748,8 @@ window.SISWA_DATA = {
     "0082276811": {
       "nisn": "0082276811",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -84757,7 +84757,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0082276811@MUHAMMAD ZAIKAL. H",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0082276811@MUHAMMAD ZAIKAL. H",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0082276811@MUHAMMAD ZAIKAL. H",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0082276811@MUHAMMAD ZAIKAL. H",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0082276811@MUHAMMAD ZAIKAL. H",
@@ -84812,8 +84812,8 @@ window.SISWA_DATA = {
     "0085405866": {
       "nisn": "0085405866",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -84821,7 +84821,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0085405866@NABILA RAMADHANIA",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0085405866@NABILA RAMADHANIA",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0085405866@NABILA RAMADHANIA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0085405866@NABILA RAMADHANIA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0085405866@NABILA RAMADHANIA",
@@ -84876,8 +84876,8 @@ window.SISWA_DATA = {
     "0084678730": {
       "nisn": "0084678730",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -84885,7 +84885,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0084678730@NISAULHAERA. S",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0084678730@NISAULHAERA. S",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0084678730@NISAULHAERA. S",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0084678730@NISAULHAERA. S",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0084678730@NISAULHAERA. S",
@@ -84940,8 +84940,8 @@ window.SISWA_DATA = {
     "0078888041": {
       "nisn": "0078888041",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -84949,7 +84949,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0078888041@NURLAILA",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0078888041@NURLAILA",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0078888041@NURLAILA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0078888041@NURLAILA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0078888041@NURLAILA",
@@ -85004,8 +85004,8 @@ window.SISWA_DATA = {
     "0089549849": {
       "nisn": "0089549849",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -85013,7 +85013,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0089549849@RASTRI FEBYANI",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0089549849@RASTRI FEBYANI",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0089549849@RASTRI FEBYANI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0089549849@RASTRI FEBYANI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0089549849@RASTRI FEBYANI",
@@ -85068,8 +85068,8 @@ window.SISWA_DATA = {
     "0083439528": {
       "nisn": "0083439528",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -85077,7 +85077,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0083439528@RIANA AULIA",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0083439528@RIANA AULIA",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0083439528@RIANA AULIA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0083439528@RIANA AULIA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0083439528@RIANA AULIA",
@@ -85132,8 +85132,8 @@ window.SISWA_DATA = {
     "0088037103": {
       "nisn": "0088037103",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -85141,7 +85141,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0088037103@RIZKI SAPUTRA",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0088037103@RIZKI SAPUTRA",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0088037103@RIZKI SAPUTRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0088037103@RIZKI SAPUTRA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0088037103@RIZKI SAPUTRA",
@@ -85196,8 +85196,8 @@ window.SISWA_DATA = {
     "0077074932": {
       "nisn": "0077074932",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -85205,7 +85205,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0077074932@SAPRUL",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0077074932@SAPRUL",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0077074932@SAPRUL",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0077074932@SAPRUL",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0077074932@SAPRUL",
@@ -85260,8 +85260,8 @@ window.SISWA_DATA = {
     "0088121117": {
       "nisn": "0088121117",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -85269,7 +85269,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0088121117@SHISHILIA SILFANA",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0088121117@SHISHILIA SILFANA",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0088121117@SHISHILIA SILFANA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0088121117@SHISHILIA SILFANA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0088121117@SHISHILIA SILFANA",
@@ -85324,8 +85324,8 @@ window.SISWA_DATA = {
     "0081792333": {
       "nisn": "0081792333",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -85333,7 +85333,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0081792333@TRI PUTRI MULIANI",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0081792333@TRI PUTRI MULIANI",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0081792333@TRI PUTRI MULIANI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0081792333@TRI PUTRI MULIANI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0081792333@TRI PUTRI MULIANI",
@@ -85388,8 +85388,8 @@ window.SISWA_DATA = {
     "0075468100": {
       "nisn": "0075468100",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -85397,7 +85397,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0075468100@WINDA",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0075468100@WINDA",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0075468100@WINDA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0075468100@WINDA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0075468100@WINDA",
@@ -85452,8 +85452,8 @@ window.SISWA_DATA = {
     "0089305593": {
       "nisn": "0089305593",
       "password": "",
-      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@*#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
-      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@7@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
+      "rawSchedule": "09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@FISIKA MINAT@Rahmawati Said. S.Si@*#13.15 - 14.30@SENI BUDAYA@Hj. Suriati. S.Pd. MM@*#14.30 - 15.30@MATEMATIKA TL@Hamsinar. S.Pd.@*#####",
+      "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@8@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@1@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@1@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@1@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@1@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@1@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@3@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -85461,7 +85461,7 @@ window.SISWA_DATA = {
       "kelas": "XII.4",
       "kehadiranAmbang": "80",
       "abList": [
-        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0089305593@ZAIRA NURUL AZKIYA",
+        "Mei/18/2026@Mei/23/2026@Mei/27/2026@Mei/30/2026@Jun/01/2026@Jun/03/2026@Jun/06/2026@Jun/15/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@H@H@H@H@H@H@H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0089305593@ZAIRA NURUL AZKIYA",
         "Jun/02/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0089305593@ZAIRA NURUL AZKIYA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0089305593@ZAIRA NURUL AZKIYA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0089305593@ZAIRA NURUL AZKIYA",
