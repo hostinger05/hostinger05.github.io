@@ -2,7 +2,7 @@
  * DATABASE SISWA — Portal Akademik SMAN 5 Pinrang
  * Di-generate otomatis oleh upload_datasiswa.gs
  * ⚠️  Jangan edit manual — gunakan script upload untuk memperbarui.
- * Terakhir diperbarui: 2026-06-20 05:55:55
+ * Terakhir diperbarui: 2026-06-20 06:00:28
  */
 
 window.SISWA_DATA = {
@@ -1417,7 +1417,7 @@ window.SISWA_DATA = {
     },
     "3090723674": {
       "nisn": "3090723674",
-      "password": "",
+      "password": "ffffffffffff",
       "rawSchedule": "09.00 - 11.30@PENJASKES@Sriko. S.Pd@*#11.30 - 14.00@IPA (KIMIA)@Aisyah. S.Pd.@*#######",
       "rawAttendanceData": "IPS (SEJARAH)@Hatifa NB. S.Pd.@0@0@0@0@0@0#INFORMATIKA@Rahmaniar. S.Pd.@0@0@0@0@0@0#PANCASILA@Maryam S. S. Pd@0@0@0@0@0@0#GEOGRAFI@Zainuddin. S.Pd. M.Pd.@0@0@0@0@0@0#BAHASA INDONESIA@Karmila Sari. S.Pd@0@0@0@0@0@0#MATEMATIKA WAJIB@Al Farida. S.Pd.@0@0@0@0@0@0#IPA (BIOLOGI)@Nurfadillah Ulfa. S.Pd.@0@0@0@0@0@0#IPA (FISIKA)@Anwar. S.Pd.@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Syamsinar. S.Pdl.. M.Pd@0@0@0@0@0@0#BAHASA INGGRIS@Haisa Tamrin.S.Pd@0@0@0@0@0@0#IPS (EKONOMI)@Agustina. SE@0@0@0@0@0@0#SOSIOLOGI@Yuliana. S.Pd.. M.Pd.@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#CODING@Rafifah Salsabilah. S.Pd.@0@0@0@0@0@0#PENJASKES@Sriko. S.Pd@0@0@0@0@0@0#IPA (KIMIA)@Aisyah. S.Pd.@0@0@0@0@0@0########",
       "rawAssessmentData": "IPS (SEJARAH)@Hatifa NB. S.Pd.@0@0@0@0@0@0#INFORMATIKA@Rahmaniar. S.Pd.@0@0@0@0@0@0#PANCASILA@Maryam S. S. Pd@0@0@0@0@0@0#GEOGRAFI@Zainuddin. S.Pd. M.Pd.@0@0@0@0@0@0#BAHASA INDONESIA@Karmila Sari. S.Pd@0@0@0@0@0@0#MATEMATIKA WAJIB@Al Farida. S.Pd.@0@0@0@0@0@0#IPA (BIOLOGI)@Nurfadillah Ulfa. S.Pd.@0@0@0@0@0@0#IPA (FISIKA)@Anwar. S.Pd.@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Syamsinar. S.Pdl.. M.Pd@0@0@0@0@0@0#BAHASA INGGRIS@Haisa Tamrin.S.Pd@0@0@0@0@0@0#IPS (EKONOMI)@Agustina. SE@0@0@0@0@0@0#SOSIOLOGI@Yuliana. S.Pd.. M.Pd.@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#CODING@Rafifah Salsabilah. S.Pd.@0@0@0@0@0@0#PENJASKES@Sriko. S.Pd@0@0@0@0@0@0#IPA (KIMIA)@Aisyah. S.Pd.@0@0@0@0@0@0########",
@@ -48267,7 +48267,7 @@ window.SISWA_DATA = {
     },
     "3090723674": {
       "nisn": "3090723674",
-      "password": "",
+      "password": "ffffffffffff",
       "rawSchedule": "07.45 - 09.00@MATEMATIKA WAJIB@Al Farida. S.Pd.@*#09.00 - 10.30@BAHASA INDONESIA@Karmila Sari. S.Pd@*#10.45 - 14.00@PENDIDIKAN AGAMA ISLAM@Syamsinar. S.Pdl.. M.Pd@*#14.00 - 15.30@BAHASA INGGRIS@Haisa Tamrin.S.Pd@*#####",
       "rawAttendanceData": "IPS (SEJARAH)@Hatifa NB. S.Pd.@0@0@0@0@0@0#INFORMATIKA@Rahmaniar. S.Pd.@0@0@0@0@0@0#PANCASILA@Maryam S. S. Pd@0@0@0@0@0@0#GEOGRAFI@Zainuddin. S.Pd. M.Pd.@0@0@0@0@0@0#BAHASA INDONESIA@Karmila Sari. S.Pd@0@0@0@0@0@0#MATEMATIKA WAJIB@Al Farida. S.Pd.@0@0@0@0@0@0#IPA (BIOLOGI)@Nurfadillah Ulfa. S.Pd.@0@0@0@0@0@0#IPA (FISIKA)@Anwar. S.Pd.@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Syamsinar. S.Pdl.. M.Pd@0@0@0@0@0@0#BAHASA INGGRIS@Haisa Tamrin.S.Pd@0@0@0@0@0@0#IPS (EKONOMI)@Agustina. SE@0@0@0@0@0@0#SOSIOLOGI@Yuliana. S.Pd.. M.Pd.@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#CODING@Rafifah Salsabilah. S.Pd.@0@0@0@0@0@0#PENJASKES@Sriko. S.Pd@0@0@0@0@0@0#IPA (KIMIA)@Aisyah. S.Pd.@0@0@0@0@0@0########",
       "rawAssessmentData": "IPS (SEJARAH)@Hatifa NB. S.Pd.@0@0@0@0@0@0#INFORMATIKA@Rahmaniar. S.Pd.@0@0@0@0@0@0#PANCASILA@Maryam S. S. Pd@0@0@0@0@0@0#GEOGRAFI@Zainuddin. S.Pd. M.Pd.@0@0@0@0@0@0#BAHASA INDONESIA@Karmila Sari. S.Pd@0@0@0@0@0@0#MATEMATIKA WAJIB@Al Farida. S.Pd.@0@0@0@0@0@0#IPA (BIOLOGI)@Nurfadillah Ulfa. S.Pd.@0@0@0@0@0@0#IPA (FISIKA)@Anwar. S.Pd.@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Syamsinar. S.Pdl.. M.Pd@0@0@0@0@0@0#BAHASA INGGRIS@Haisa Tamrin.S.Pd@0@0@0@0@0@0#IPS (EKONOMI)@Agustina. SE@0@0@0@0@0@0#SOSIOLOGI@Yuliana. S.Pd.. M.Pd.@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#CODING@Rafifah Salsabilah. S.Pd.@0@0@0@0@0@0#PENJASKES@Sriko. S.Pd@0@0@0@0@0@0#IPA (KIMIA)@Aisyah. S.Pd.@0@0@0@0@0@0########",
