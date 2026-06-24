@@ -2,7 +2,7 @@
  * DATABASE SISWA — Portal Akademik SMAN 5 Pinrang
  * Di-generate otomatis oleh upload_datasiswa.gs
  * ⚠️  Jangan edit manual — gunakan script upload untuk memperbarui.
- * Terakhir diperbarui: 2026-06-25 07:40:35
+ * Terakhir diperbarui: 2026-06-25 07:46:31
  */
 
 window.SISWA_DATA = {
@@ -47308,8 +47308,8 @@ window.SISWA_DATA = {
     "3082858089": {
       "nisn": "3082858089",
       "password": "",
-      "rawSchedule": "07.45 - 09.00@INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@*#09.00 - 10.30@MATEMATIKA WAJIB@Jufri. S.Pd.@*#10.45 - 12.15@KIMIA MINAT@Mutmainah Syam. S.Pd@B#13.15 - 14.30@BHS. INGGRIS TINGKAT LANJUT@Hj. Hasnah B. S.S@*#14.30 - 15.30@PANCASILA@Iskandar. S.Pd@*####",
-      "rawAttendanceData": "BHS. INGGRIS TINGKAT LANJUT@Hj. Hasnah B. S.S@0@0@0@0@0@0#BAHASA INDONESIA@Rahmah. S.S@0@0@0@0@0@0#MATEMATIKA WAJIB@Jufri. S.Pd.@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0#P&KWU@Hamnan. S.Pd.@0@0@0@0@0@0#SOSIOLOGI MINAT@Arma. S.Sos@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#KIMIA MINAT@Mutmainah Syam. S.Pd@0@0@0@1@0@1#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0###########",
+      "rawSchedule": "07.45 - 09.00@INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@*#09.00 - 10.30@MATEMATIKA WAJIB@Jufri. S.Pd.@*#10.45 - 12.15@KIMIA MINAT@Mutmainah Syam. S.Pd@A#13.15 - 14.30@BHS. INGGRIS TINGKAT LANJUT@Hj. Hasnah B. S.S@*#14.30 - 15.30@PANCASILA@Iskandar. S.Pd@*####",
+      "rawAttendanceData": "BHS. INGGRIS TINGKAT LANJUT@Hj. Hasnah B. S.S@0@0@0@0@0@0#BAHASA INDONESIA@Rahmah. S.S@0@0@0@0@0@0#MATEMATIKA WAJIB@Jufri. S.Pd.@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0#P&KWU@Hamnan. S.Pd.@0@0@0@0@0@0#SOSIOLOGI MINAT@Arma. S.Sos@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#KIMIA MINAT@Mutmainah Syam. S.Pd@0@0@0@1@1@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0###########",
       "rawAssessmentData": "BHS. INGGRIS TINGKAT LANJUT@Hj. Hasnah B. S.S@0@0@0@0@0@0#BAHASA INDONESIA@Rahmah. S.S@0@0@0@0@0@0#MATEMATIKA WAJIB@Jufri. S.Pd.@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0#P&KWU@Hamnan. S.Pd.@0@0@0@0@0@0#SOSIOLOGI MINAT@Arma. S.Sos@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#KIMIA MINAT@Mutmainah Syam. S.Pd@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0###########",
       "rawNotesData": "BHS. INGGRIS TINGKAT LANJUT@Hj. Hasnah B. S.S@N#-%BAHASA INDONESIA@Rahmah. S.S@N#-%MATEMATIKA WAJIB@Jufri. S.Pd.@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%P&KWU@Hamnan. S.Pd.@N#-%SOSIOLOGI MINAT@Arma. S.Sos@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%PENJASKES@Drs. Muhammad Anas@N#-%PANCASILA@Iskandar. S.Pd@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -47326,7 +47326,7 @@ window.SISWA_DATA = {
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3082858089@AHMAD FADHIL NAS",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3082858089@AHMAD FADHIL NAS",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3082858089@AHMAD FADHIL NAS",
-        "Jun/24/2026@@Jun/25/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,S@@B@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3082858089@AHMAD FADHIL NAS",
+        "Jun/24/2026@@Jun/25/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,S@@A@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3082858089@AHMAD FADHIL NAS",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3082858089@AHMAD FADHIL NAS",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3082858089@AHMAD FADHIL NAS",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3082858089@AHMAD FADHIL NAS",
@@ -90060,8 +90060,8 @@ window.SISWA_DATA = {
     "0085598341": {
       "nisn": "0085598341",
       "password": "",
-      "rawSchedule": "07.45 - 09.00@INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@*#09.00 - 10.30@MATEMATIKA WAJIB@Jufri. S.Pd.@*#10.45 - 12.15@KIMIA MINAT@Mutmainah Syam. S.Pd@B#13.15 - 14.30@BHS. INGGRIS TINGKAT LANJUT@Hj. Hasnah B. S.S@*#14.30 - 15.30@PANCASILA@Iskandar. S.Pd@*####",
-      "rawAttendanceData": "BHS. INGGRIS TINGKAT LANJUT@Hj. Hasnah B. S.S@0@0@0@0@0@0#BAHASA INDONESIA@Rahmah. S.S@0@0@0@0@0@0#MATEMATIKA WAJIB@Jufri. S.Pd.@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0#P&KWU@Hamnan. S.Pd.@0@0@0@0@0@0#SOSIOLOGI MINAT@Arma. S.Sos@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#KIMIA MINAT@Mutmainah Syam. S.Pd@0@0@0@1@0@1#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0###########",
+      "rawSchedule": "07.45 - 09.00@INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@*#09.00 - 10.30@MATEMATIKA WAJIB@Jufri. S.Pd.@*#10.45 - 12.15@KIMIA MINAT@Mutmainah Syam. S.Pd@I#13.15 - 14.30@BHS. INGGRIS TINGKAT LANJUT@Hj. Hasnah B. S.S@*#14.30 - 15.30@PANCASILA@Iskandar. S.Pd@*####",
+      "rawAttendanceData": "BHS. INGGRIS TINGKAT LANJUT@Hj. Hasnah B. S.S@0@0@0@0@0@0#BAHASA INDONESIA@Rahmah. S.S@0@0@0@0@0@0#MATEMATIKA WAJIB@Jufri. S.Pd.@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0#P&KWU@Hamnan. S.Pd.@0@0@0@0@0@0#SOSIOLOGI MINAT@Arma. S.Sos@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#KIMIA MINAT@Mutmainah Syam. S.Pd@0@0@1@1@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0###########",
       "rawAssessmentData": "BHS. INGGRIS TINGKAT LANJUT@Hj. Hasnah B. S.S@0@0@0@0@0@0#BAHASA INDONESIA@Rahmah. S.S@0@0@0@0@0@0#MATEMATIKA WAJIB@Jufri. S.Pd.@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0#P&KWU@Hamnan. S.Pd.@0@0@0@0@0@0#SOSIOLOGI MINAT@Arma. S.Sos@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#KIMIA MINAT@Mutmainah Syam. S.Pd@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0###########",
       "rawNotesData": "BHS. INGGRIS TINGKAT LANJUT@Hj. Hasnah B. S.S@N#-%BAHASA INDONESIA@Rahmah. S.S@N#-%MATEMATIKA WAJIB@Jufri. S.Pd.@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%P&KWU@Hamnan. S.Pd.@N#-%SOSIOLOGI MINAT@Arma. S.Sos@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%PENJASKES@Drs. Muhammad Anas@N#-%PANCASILA@Iskandar. S.Pd@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -90078,7 +90078,7 @@ window.SISWA_DATA = {
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0085598341@AFRIANSYAH BASRI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0085598341@AFRIANSYAH BASRI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0085598341@AFRIANSYAH BASRI",
-        "Jun/24/2026@@Jun/25/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,S@@B@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0085598341@AFRIANSYAH BASRI",
+        "Jun/24/2026@@Jun/25/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,S@@I@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0085598341@AFRIANSYAH BASRI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0085598341@AFRIANSYAH BASRI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0085598341@AFRIANSYAH BASRI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0085598341@AFRIANSYAH BASRI",
