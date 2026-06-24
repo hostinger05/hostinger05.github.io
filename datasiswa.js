@@ -2,7 +2,7 @@
  * DATABASE SISWA — Portal Akademik SMAN 5 Pinrang
  * Di-generate otomatis oleh upload_datasiswa.gs
  * ⚠️  Jangan edit manual — gunakan script upload untuk memperbarui.
- * Terakhir diperbarui: 2026-06-24 11:00:26
+ * Terakhir diperbarui: 2026-06-24 11:05:51
  */
 
 window.SISWA_DATA = {
@@ -83407,7 +83407,7 @@ window.SISWA_DATA = {
       "rawSchedule": "07.45 - 09.00@EKONOMI MINAT@Wahida. S.Pd.@*#09.00 - 10.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#10.45 - 12.15@P&KWU@Gasrum. ST. MM@*#13.15 - 14.30@SEJARAH WAJIB@Drs. H. Abd. Rahman@*#14.30 - 15.30@MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@*####",
       "rawAttendanceData": "KIMIA MINAT@Mutmainah Syam. S.Pd@2@0@0@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
       "rawAssessmentData": "KIMIA MINAT@Mutmainah Syam. S.Pd@2@96@1@0@0@0#FISIKA MINAT@Rahmawati Said. S.Si@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#MATEMATIKA TL@Hamsinar. S.Pd.@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#PANCASILA@Iskandar. S.Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0###########",
-      "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
+      "rawNotesData": "KIMIA MINAT@Mutmainah Syam. S.Pd@24 Juni 2026#Semangat belajar%FISIKA MINAT@Rahmawati Said. S.Si@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%MATEMATIKA TL@Hamsinar. S.Pd.@N#-%PENJASKES@Drs. Muhammad Anas@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%PANCASILA@Iskandar. S.Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%P&KWU@Gasrum. ST. MM@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
       "nama": "ABDUL RAHMAN",
       "kelas": "XII.4",
