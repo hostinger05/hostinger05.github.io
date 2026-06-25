@@ -2,7 +2,7 @@
  * DATABASE SISWA — Portal Akademik SMAN 5 Pinrang
  * Di-generate otomatis oleh upload_datasiswa.gs
  * ⚠️  Jangan edit manual — gunakan script upload untuk memperbarui.
- * Terakhir diperbarui: 2026-06-25 08:25:38
+ * Terakhir diperbarui: 2026-06-25 08:31:12
  */
 
 window.SISWA_DATA = {
@@ -77388,8 +77388,8 @@ window.SISWA_DATA = {
     "0078565539": {
       "nisn": "0078565539",
       "password": "",
-      "rawSchedule": "07.45 - 09.00@GEOGRAFI MINAT@Andi Fatimah Azzara Oentoeng. S.Pd@*#09.00 - 10.30@PANCASILA@Maryam S. S. Pd@*#10.45 - 12.15@INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@*#13.15 - 14.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#14.30 - 15.30@EKONOMI MINAT@Wahida. S.Pd.@*####",
-      "rawAttendanceData": "INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@0@0@0@0@0@0#KIMIA MINAT@Mutmainah Syam. S.Pd@1@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0#GEOGRAFI MINAT@Andi Fatimah Azzara Oentoeng. S.Pd@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#PANCASILA@Maryam S. S. Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0###########",
+      "rawSchedule": "07.45 - 09.00@GEOGRAFI MINAT@Andi Fatimah Azzara Oentoeng. S.Pd@*#09.00 - 10.30@PANCASILA@Maryam S. S. Pd@*#10.45 - 12.15@INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@*#13.15 - 14.30@KIMIA MINAT@Mutmainah Syam. S.Pd@A#14.30 - 15.30@EKONOMI MINAT@Wahida. S.Pd.@*####",
+      "rawAttendanceData": "INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@0@0@0@0@0@0#KIMIA MINAT@Mutmainah Syam. S.Pd@0@0@0@0@1@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0#GEOGRAFI MINAT@Andi Fatimah Azzara Oentoeng. S.Pd@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#PANCASILA@Maryam S. S. Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0###########",
       "rawAssessmentData": "INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@0@0@0@0@0@0#KIMIA MINAT@Mutmainah Syam. S.Pd@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0#GEOGRAFI MINAT@Andi Fatimah Azzara Oentoeng. S.Pd@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#PANCASILA@Maryam S. S. Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0###########",
       "rawNotesData": "INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@N#-%KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%PENJASKES@Drs. Muhammad Anas@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%P&KWU@Gasrum. ST. MM@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%GEOGRAFI MINAT@Andi Fatimah Azzara Oentoeng. S.Pd@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%PANCASILA@Maryam S. S. Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -77398,7 +77398,7 @@ window.SISWA_DATA = {
       "kehadiranAmbang": "80",
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0078565539@ANTIKA AURELYA",
-        "Jun/25/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0078565539@ANTIKA AURELYA",
+        "Jun/25/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,A@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0078565539@ANTIKA AURELYA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0078565539@ANTIKA AURELYA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0078565539@ANTIKA AURELYA",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0078565539@ANTIKA AURELYA",
@@ -77452,8 +77452,8 @@ window.SISWA_DATA = {
     "0075464448": {
       "nisn": "0075464448",
       "password": "",
-      "rawSchedule": "07.45 - 09.00@GEOGRAFI MINAT@Andi Fatimah Azzara Oentoeng. S.Pd@*#09.00 - 10.30@PANCASILA@Maryam S. S. Pd@*#10.45 - 12.15@INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@*#13.15 - 14.30@KIMIA MINAT@Mutmainah Syam. S.Pd@H#14.30 - 15.30@EKONOMI MINAT@Wahida. S.Pd.@*####",
-      "rawAttendanceData": "INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@0@0@0@0@0@0#KIMIA MINAT@Mutmainah Syam. S.Pd@1@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0#GEOGRAFI MINAT@Andi Fatimah Azzara Oentoeng. S.Pd@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#PANCASILA@Maryam S. S. Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0###########",
+      "rawSchedule": "07.45 - 09.00@GEOGRAFI MINAT@Andi Fatimah Azzara Oentoeng. S.Pd@*#09.00 - 10.30@PANCASILA@Maryam S. S. Pd@*#10.45 - 12.15@INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@*#13.15 - 14.30@KIMIA MINAT@Mutmainah Syam. S.Pd@A#14.30 - 15.30@EKONOMI MINAT@Wahida. S.Pd.@*####",
+      "rawAttendanceData": "INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@0@0@0@0@0@0#KIMIA MINAT@Mutmainah Syam. S.Pd@0@0@0@0@1@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0#GEOGRAFI MINAT@Andi Fatimah Azzara Oentoeng. S.Pd@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#PANCASILA@Maryam S. S. Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0###########",
       "rawAssessmentData": "INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@0@0@0@0@0@0#KIMIA MINAT@Mutmainah Syam. S.Pd@0@0@0@0@0@0#PENJASKES@Drs. Muhammad Anas@0@0@0@0@0@0#SENI BUDAYA@Hj. Suriati. S.Pd. MM@0@0@0@0@0@0#BAHASA INDONESIA@St. Rohani. S.Pd@0@0@0@0@0@0#SEJARAH WAJIB@Drs. H. Abd. Rahman@0@0@0@0@0@0#BAHASA INGGRIS@Mursalim Alias. S.Pd@0@0@0@0@0@0#P&KWU@Gasrum. ST. MM@0@0@0@0@0@0#PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@0@0@0@0@0@0#GEOGRAFI MINAT@Andi Fatimah Azzara Oentoeng. S.Pd@0@0@0@0@0@0#MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@0@0@0@0@0@0#PANCASILA@Maryam S. S. Pd@0@0@0@0@0@0#EKONOMI MINAT@Wahida. S.Pd.@0@0@0@0@0@0###########",
       "rawNotesData": "INFORMATIKA MINAT@Sitti Nursani Mansyur. S.Kom.@N#-%KIMIA MINAT@Mutmainah Syam. S.Pd@N#-%PENJASKES@Drs. Muhammad Anas@N#-%SENI BUDAYA@Hj. Suriati. S.Pd. MM@N#-%BAHASA INDONESIA@St. Rohani. S.Pd@N#-%SEJARAH WAJIB@Drs. H. Abd. Rahman@N#-%BAHASA INGGRIS@Mursalim Alias. S.Pd@N#-%P&KWU@Gasrum. ST. MM@N#-%PENDIDIKAN AGAMA ISLAM@Darna. S.PdI.@N#-%GEOGRAFI MINAT@Andi Fatimah Azzara Oentoeng. S.Pd@N#-%MATEMATIKA WAJIB@Muhammad Akhzan Waris. S.Pd.@N#-%PANCASILA@Maryam S. S. Pd@N#-%EKONOMI MINAT@Wahida. S.Pd.@N#-%%%%%%%%%%%",
       "nilaiAmbang": "75",
@@ -77462,7 +77462,7 @@ window.SISWA_DATA = {
       "kehadiranAmbang": "80",
       "abList": [
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0075464448@ARNI RUSLI",
-        "Jun/25/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,H@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0075464448@ARNI RUSLI",
+        "Jun/25/2026@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,A@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0075464448@ARNI RUSLI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0075464448@ARNI RUSLI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0075464448@ARNI RUSLI",
         "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,0075464448@ARNI RUSLI",
