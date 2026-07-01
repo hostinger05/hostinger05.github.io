@@ -2,7 +2,7 @@
  * DATABASE SISWA — Portal Akademik SMAN 5 Pinrang
  * Di-generate otomatis oleh upload_datasiswa.gs
  * ⚠️  Jangan edit manual — gunakan script upload untuk memperbarui.
- * Terakhir diperbarui: 2026-07-02 06:56:05
+ * Terakhir diperbarui: 2026-07-02 07:00:33
  */
 
 window.SISWA_DATA = {
